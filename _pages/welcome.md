@@ -1,5 +1,6 @@
 ---
 permalink: /welcome/
+hero_image: "/assets/images/park-header.jpg"
 title: "Welcome"
 ---
 

@@ -4,6 +4,12 @@ hero_image: "/assets/images/park-header.jpg"
 title: "Welcome"
 ---
 
+{% include hero.html
+image=page.hero_image
+title=page.title
+text="Preserving our green space since 2005"
+%}
+
 Welcome to the official website of the Friends of Elm Road Recreation Ground. We are a community-driven organization dedicated to preserving, enhancing, and promoting our beloved local green space.
 
 ## Our Mission
